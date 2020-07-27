@@ -1,0 +1,9 @@
+A lockdown is a requirement for people to stay where they are, usually due to specific risks to themselves or to others if they can move freely. The term "stay-at-home" or "shelter-in-place" is
+often used for lockdowns that affect an area, rather than specific locations.
+
+The term is used for a prison protocol that usually prevents people, information or objects from leaving an area. The protocol can usually only be initiated by someone in a position of
+authority.
+
+A lockdown can also be used to protect people inside a facility or, for example, a computing system, from a threat or other external event. In buildings doors leading outside are usually
+locked so that no person may enter or exit. A full lockdown usually means that people must stay where they are and may not enter or exit a building or rooms within it, needing to go to
+the nearest place designated safe if not already in such a place. A drill lockdown may be held in the absence of a threat, to familiarise people with what they must do.
